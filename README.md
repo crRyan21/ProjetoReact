@@ -1,5 +1,3 @@
-# projetoReact-fb
-
 # Tecnologias Usadas:
 * RealTime Database - Firebase
 * ReactJs
@@ -16,7 +14,7 @@
 
 
 # Dificulade
-* Eu tive alguns problemas para realizar o deploy do projeto, eu tentei postar utilizando o meu próprio servidor e o GitHub Pages, mas ele funciona perfeitamente rodando localmente em qualquer máquina.
+* Eu tive alguns problemas para realizar o deploy do projeto, eu tentei postar utilizando serviço de hospedagem 000webhost e o GitHub Pages e não deu certo, porém ele funciona perfeitamente rodando localmente em qualquer máquina.
 
 # Rodar o projeto
 * Para rodar o projeto é necessário dar um git clone do repositório
