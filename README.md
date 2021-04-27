@@ -13,7 +13,7 @@
 * No front-end foi criado algumas funções para acessar o banco de dados, para armazenar as informaçoes dos inputs, para submeter o formulário e além disso, foi criado as funções para realização do CRUD (Create,Read,Update e Delete).
 
 
-# Dificulade
+# Dificuldade
 * Eu tive alguns problemas para realizar o deploy do projeto, eu tentei postar utilizando serviço de hospedagem 000webhost e o GitHub Pages e não deu certo, porém ele funciona perfeitamente rodando localmente em qualquer máquina.
 
 # Rodar o projeto
