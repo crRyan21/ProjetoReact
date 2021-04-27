@@ -18,7 +18,8 @@
 
 # Rodar o projeto
 * Para rodar o projeto é necessário dar um git clone do repositório
-* Depois executar o comando: npm install
+* Entrar na pasta "react-fb" pelo ("cd react-fb")
+* Depois executar o comando: npm install 
 * E por fim executar: npm start
 
 
