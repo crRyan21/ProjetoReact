@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ReactBuild/static/css/main.b1b67b2c.chunk.css",
+    "main.js": "/ReactBuild/static/js/main.36503161.chunk.js",
+    "main.js.map": "/ReactBuild/static/js/main.36503161.chunk.js.map",
+    "runtime-main.js": "/ReactBuild/static/js/runtime-main.af1b1e70.js",
+    "runtime-main.js.map": "/ReactBuild/static/js/runtime-main.af1b1e70.js.map",
+    "static/js/2.4f8fa7af.chunk.js": "/ReactBuild/static/js/2.4f8fa7af.chunk.js",
+    "static/js/2.4f8fa7af.chunk.js.map": "/ReactBuild/static/js/2.4f8fa7af.chunk.js.map",
+    "static/js/3.b82c6e2a.chunk.js": "/ReactBuild/static/js/3.b82c6e2a.chunk.js",
+    "static/js/3.b82c6e2a.chunk.js.map": "/ReactBuild/static/js/3.b82c6e2a.chunk.js.map",
+    "index.html": "/ReactBuild/index.html",
+    "static/css/main.b1b67b2c.chunk.css.map": "/ReactBuild/static/css/main.b1b67b2c.chunk.css.map",
+    "static/js/2.4f8fa7af.chunk.js.LICENSE.txt": "/ReactBuild/static/js/2.4f8fa7af.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/ReactBuild/static/media/background.08982620.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.af1b1e70.js",
+    "static/js/2.4f8fa7af.chunk.js",
+    "static/css/main.b1b67b2c.chunk.css",
+    "static/js/main.36503161.chunk.js"
+  ]
+}
